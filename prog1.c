@@ -2,5 +2,7 @@
 void main()
 {
 printf("hi");
+printf("hello");
+printf("git lab");
+printf("local repo");
 }
-
